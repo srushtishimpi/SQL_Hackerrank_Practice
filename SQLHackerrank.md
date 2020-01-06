@@ -447,7 +447,7 @@ The following tables contain company data:
 
 
 * **Lead_Manager**: The lead_manager_code is the code of the lead manager, and the company_code is the code of the working comapny.<Br>
-![Q2](https://s3.amazonaws.com/hr-challenge-images/19505/1458534973-6548194998-ScreenShot2016-03-21at8.50.21AM.png)
+![Q2](https://s3.amazonaws.com/hr-challenge-images/19505/1458534960-2c6d764e3c-ScreenShot2016-03-21at8.50.12AM.png)
 
 
 * **Senior_Manager**: The senior_manager_code is the code of the senior manager, the lead_manager_code is the code of its lead manager, and the company_code is the code of the working company. <Br>
