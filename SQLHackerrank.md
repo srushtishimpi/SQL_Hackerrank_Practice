@@ -425,7 +425,7 @@ ORDER BY EMPLOYEE_ID;
 
 # Advance SELECT Queries
 
-## 21. New Companies
+## 1. New Companies
 
 
 Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy: <Br>
